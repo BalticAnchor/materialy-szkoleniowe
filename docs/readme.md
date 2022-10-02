@@ -39,7 +39,7 @@ Powodzenia !
 | Materiały | Pobierz |
 | --- | --- |
 | 1. Wykład Prace Bosmańskie | [pdf](AAA/PRACE_BOSMASKIE_Baltic_Anchor.pdf) |
-| 2. Wykład Locja morska | [pdf](AAA/LOCJA_MORSKA_Baltic_Anchor.jpg) |
+| 2. Wykład Locja morska | [pdf](AAA/LOCJA_MORSKA_Baltic_Anchor.pdf) |
 | 3. Komendy podstawowe | [pdf](AAA/Komendy-podstawowe_manewry.pdf) |
 | 4. Kursy względem wiatru | [pdf](AAA/Kurs_względem_wiatru.jpg) |
 
@@ -109,5 +109,5 @@ Powodzenia na egzaminie!
 | --- | --- |
 | 1. Poradnik, jak wybrać rejsy manewrowe | [link](https://open.spotify.com/episode/20UKigUQjbbGVLoZ37gmxt?si=9a361e87f2ef427f) |
 | 2. Poradnik, czarter jachtu cz.1 | [link](https://open.spotify.com/episode/0UfVagSiS2wsf7qHvXL0bx?si=ab571ea8612e4a99) |
-| 3.Poradnik, czarter jachtu cz.2 | [link](https://open.spotify.com/episode/3iTrqa8Y0yoz5lFa7aY04S?si=99b5cf9d40a143b4) |
+| 3. Poradnik, czarter jachtu cz.2 | [link](https://open.spotify.com/episode/3iTrqa8Y0yoz5lFa7aY04S?si=99b5cf9d40a143b4) |
 | 4. Nasza strona do czarterów jachtów | [link](https://seastaradventure.com) |
